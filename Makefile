@@ -1,4 +1,4 @@
-APP_NAME := StreamAlert
+APP_NAME := TwitchRecipient
 BUILD_DIR := bin
 VERSION := 1.0.0
 
